@@ -1,0 +1,17 @@
+﻿Построение начато 13.03.2018 23:37:25.
+     1>Проект "J:\saod\laba3\laba3\laba3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba3.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         laba3.vcxproj -> J:\saod\laba3\Debug\laba3.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba3.lastbuildstate".
+     1>Построение проекта "J:\saod\laba3\laba3\laba3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.72
